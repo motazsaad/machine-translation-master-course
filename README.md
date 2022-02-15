@@ -1,2 +1,1 @@
-# machine-translation-course
-machine translation course
+# machine translation master course
